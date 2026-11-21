@@ -25,7 +25,7 @@ A web-based food ordering platform connecting university students and staff with
 
 🤝 Connect With Me
 
-* LinkedIn: Profile
+* LinkedIn: https://www.linkedin.com/in/sanele-sibusiso-zuma
 * Email: sanelesbu03@gmail.com
 
 “Learning, building and improving one project at a time.” 🚀
